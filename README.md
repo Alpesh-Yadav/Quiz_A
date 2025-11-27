@@ -1,20 +1,40 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎓 Quiz Master — React Quiz Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully designed, interactive quiz application built using *React + Vite + Tailwind CSS*.  
+Users can attempt quizzes such as *DSA, **Operating Systems, and **DBMS*, with clean UI, smooth transitions, and a responsive layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Demo  
+https://startling-beignet-f7498d.netlify.app/
 
-## React Compiler
+---
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## 📦 Tech Stack Used
 
-## Expanding the ESLint configuration
+### *Frontend*
+- ⚛ *React (Vite)*
+- 🎨 *Tailwind CSS*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Quiz_A
->>>>>>> c7c5d475162b406e52ebf3b0a97cad1080fe081f
+### *Deployment*
+- 🌐 *Netlify* 
+
+---
+
+## 🛠 Setup Instructions
+
+Follow the steps below to run the project locally:
+
+### *1. Clone the repository*
+```bash
+git clone https://github.com/Devanshm23/quiz-app.git
+cd quiz-app
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+# Build for production
+npm run build
