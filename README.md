@@ -6,8 +6,7 @@ Users can attempt quizzes such as *DSA, **Operating Systems, and **DBMS*, with c
 ---
 
 ## 🚀 Demo  
-https://startling-beignet-f7498d.netlify.app/
-
+https://profound-liger-d4fea7.netlify.app/
 ---
 
 ## 📦 Tech Stack Used
@@ -27,7 +26,7 @@ Follow the steps below to run the project locally:
 
 ### *1. Clone the repository*
 ```bash
-git clone https://github.com/Devanshm23/quiz-app.git
+git clone https://github.com/Alpesh-Yadav/Quiz_A.git
 cd quiz-app
 
 # Install dependencies
